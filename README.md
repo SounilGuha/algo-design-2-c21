@@ -1,2 +1,2 @@
-# algo-design-2-c21
-implimented is touching and bounce off
+# p5.play-boilerplate
+Boiler plate for p5.play
